@@ -1,0 +1,15 @@
+{
+  "name": "find-your-hat",
+  "version": "1.0.0",
+  "description": "A terminal maze-solving game.",
+  "main": "main.js",
+  "author": "Codecademy",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^29.5.0",
+    "prompt-sync": "^4.1.7"
+  },
+  "devDependencies": {
+    "eslint": "^8.40.0"
+  }
+}
